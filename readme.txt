@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 123456Creating a new branch is quick and simple.
 add 123456
+654321
